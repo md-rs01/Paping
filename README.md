@@ -10,8 +10,10 @@
 
 ## Go ot Directory and run it using cmd or powershell
 
-![first_use](img/..PNG)
+### Write cmd & press enter
+![first_use](img/cmd_search.PNG)
 
+### Set Your Target server & port
 ![fist_use](img/finalcmd.PNG)
 
 # Usage
