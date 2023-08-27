@@ -6,6 +6,14 @@
 
   git clone https://github.com/md-rs01/Paping
 
+# Installation
+
+## Go ot Directory and run it using cmd or powershell
+
+![first_use](img/..PNG)
+
+![fist_use](img/finalcmd.PNG)
+
 # Usage
 
 ### How to write paping command
@@ -14,3 +22,12 @@
 ### Attack in a Server on port 443
 
 ![attack](img/ddos.PNG)
+
+## Credits
+
+All Credits goes to `BoyFromBd`
+
+## Contact
+
+Contact in telegram: https://t.me/heartcrafter
+
