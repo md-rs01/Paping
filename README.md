@@ -2,6 +2,10 @@
 
 "Paping" is a network troubleshooting tool that checks the availability and responsiveness of network hosts using TCP packets. Unlike traditional "ping," paping tests specific ports to diagnose connectivity and service issues. It measures the round-trip time for packets, aiding in identifying online hosts and functional services. This tool is valuable for network administrators and users seeking to diagnose network problems and measure latency.
 
+# NB:- 
+
+You can use it only in Windows.
+
 # Download
 
   git clone https://github.com/md-rs01/Paping
