@@ -12,7 +12,7 @@ You can use it only in Windows.
 
 # Installation
 
-## Go ot Directory and run it using cmd or powershell
+## Go to the download Directory and run it using cmd or powershell
 
 ### Write cmd & press enter
 ![first_use](img/cmd_search.PNG)
